@@ -1,0 +1,21 @@
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).exe.config
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).vbprojResolveAssemblyReference.cache
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH_TOOLKIT_V1._0__FINAL_.Resources.resources
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).vbproj.GenerateResource.Cache
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).xml
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).exe
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).pdb
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).xml
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).exe
+c:\users\jlnqo\documents\visual studio 2015\Projects\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).pdb
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).exe.config
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).exe
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).pdb
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\bin\Debug\MATH TOOLKIT V1.0 (FINAL).xml
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).vbproj.AssemblyReference.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH_TOOLKIT_V1._0__FINAL_.Resources.resources
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).vbproj.GenerateResource.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).vbproj.CoreCompileInputs.cache
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).exe
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).xml
+E:\00_USER FILES (LIVE)\Desktop\PROGRAMMING\VS Projects 2015\MATH TOOLKIT V1.0 (FINAL)\MATH TOOLKIT V1.0 (FINAL)\obj\Debug\MATH TOOLKIT V1.0 (FINAL).pdb
